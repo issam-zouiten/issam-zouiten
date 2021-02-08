@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
-<p>I'm Othmane, Fullstack developer.</p>
+<p>I'm Issam, Fullstack developer.</p>
 - 👨🏽‍💻 I’m currently studying at 1337 School<br>
 - 😄 I’m currently learning everything<br>
 - ⚡ Fun fact: I play football, beatbox and guitar...
