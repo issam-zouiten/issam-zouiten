@@ -19,11 +19,10 @@
 </p>
 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=issam-zouiten&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issam-zouiten&langs_count=8&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=issam-zouiten&show_icons=true&theme=vue-dark)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=izouiten)](https://github.com/issam-zouiten)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=izouiten)]
 
 ### Connect with me:
 
