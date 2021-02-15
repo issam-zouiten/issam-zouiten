@@ -1,12 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 <h3>I'm Issam, Fullstack developer.</h3>
-- I’m currently studying at 1337 School
-- I’m currently learning everything (C, SDL, ....)
-- I’m developer with a strong knowledge in PHP, SQL, JavaScript(Node JS/React JS /...), HTML, CSS3.
-- In the last 2 years, I have specialized in software design pattern
-  Development management, and UI/UX fixes/consulting.
-- At free time I'm working on some mini-projects. 
-- ⚡ Fun fact: I play football, babyfoot and billard...
+- I’m currently studying at 1337 School<br>
+- I’m currently learning everything (C, SDL, ....)<br>
+- I’m developer with a strong knowledge in PHP, SQL, JavaScript(Node JS/React JS /...), HTML, CSS3.<br>
+- In the last 2 years, I have specialized in software design pattern Development management, and UI/UX fixes/consulting.<br>
+- At free time I'm working on some mini-projects. <br>
+- ⚡ Fun fact: I play football, babyfoot and billard...<br>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
