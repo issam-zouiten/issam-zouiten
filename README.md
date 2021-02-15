@@ -1,7 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
-<p>I'm Issam, Fullstack developer.</p>
-- 👨🏽‍💻 I’m currently studying at 1337 School<br>
-- 😄 I’m currently learning everything<br>
+<h3>I'm Issam, Fullstack developer.</h3>
+- I’m currently studying at 1337 School
+- I’m currently learning everything (C, SDL, ....)
+- I’m developer with a strong knowledge in PHP, SQL, JavaScript(Node JS/React JS /...), HTML, CSS3.
+- In the last 2 years, I have specialized in software design pattern
+  Development management, and UI/UX fixes/consulting.
+- At free time I'm working on some mini-projects. 
 - ⚡ Fun fact: I play football, babyfoot and billard...
 <h3>Things I code with</h3>
 <p>
