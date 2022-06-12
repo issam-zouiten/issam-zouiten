@@ -1,16 +1,15 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header_fr.svg"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;À propos de moi
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;I’m Full Stack developper with a strong knowledge in PHP, SQL, JavaScript(Node JS/React JS /...), HTML, CSS3. \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for tech and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and travel.\
-
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp; Je suis développeur Full Stack avec de solides connaissances en PHP, SQL, JavaScript(Node JS/React JS /...), HTML, CSS3.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amour pour la tech et l'innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionné par la résolution de problèmes et de voyagers.\
 
 <p align="center">
   <a href="mailto:zouiten.issam@gmail.com?subject=Olá%Zouiten%20Issam"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +22,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Principales connaissances technologiques</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -71,7 +70,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Autres connaissances, toujours entrain d'apprendre</b></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -109,8 +108,8 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
+  <summary><b>:gear: &nbsp;Les statistiques de GitHub</b></summary>
+ <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=issam-zouiten&hide_border=true&theme=nightowl" />
     </p>
