@@ -7,9 +7,9 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;I’m Full Stack developper with a strong knowledge in PHP, SQL, JavaScript(NodeJS/ReactJS/...)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;I’m Full Stack developper with a strong knowledge in JavaScript(NodeJS/ReactJS/...), PHP, SQL\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for tech and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and travel.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and travel.
 
 <p align="center">
   <a href="mailto:zouiten.issam@gmail.com?subject=Olá%Zouiten%20Issam"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
